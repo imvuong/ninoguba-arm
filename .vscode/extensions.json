@@ -1,0 +1,11 @@
+{
+	"recommendations": [
+		"bungcip.better-toml",
+		"eamodio.gitlens",
+		"lego-education.ev3-micropython",
+		"mhutchie.git-graph",
+		"ms-python.black-formatter",
+		"njpwerner.autodocstring",
+		"redhat.vscode-yaml"
+	]
+}
