@@ -32,6 +32,7 @@ classifiers = [
 python = "^3.8, <3.12"
 rich = "*"
 typer = { version = "*", extras = ["all"] }
+python-ev3dev2 = "^2.1.0.post1"
 
 [tool.poetry.group.nox.dependencies]
 nox-poetry = "*"
