@@ -11,5 +11,9 @@
     "python.analysis.extraPaths": [
         "./src/ev3"
     ],
-    "ev3devBrowser.download.exclude": "{**/.*,}"
+    "ev3devBrowser.download.exclude": "{**/.*,docs,src/fact,tests,Dockerfile,LICENSE.txt,README.md,mkdocs.yml,noxfile.py,poetry.lock,pyproject.toml}",
+    "python.autoComplete.extraPaths": [
+        "/home/vly/software/catkin_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
 }
